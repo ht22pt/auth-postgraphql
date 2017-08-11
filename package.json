@@ -1,0 +1,13 @@
+{
+  "name": "auth-postgraphql",
+  "version": "1.0.0",
+  "description": "Demo authentication with postgraphql",
+  "main": "server/server.js",
+  "author": "Thanh Nguyen <npt.thanh105@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "postgraphql": "^3.4.0"
+  }
+}
